@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Prueba_soy_un_titulo
 {
-    [Activity(Label = "Prueba_soy_un_titulo", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Prueba_soy_un_titulo!!!:)", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
